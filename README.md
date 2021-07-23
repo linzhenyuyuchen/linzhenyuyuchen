@@ -1,4 +1,8 @@
 ### Hi there 👋
+![](./dino.gif)
+
+- 🌱 I’m sharing on [my blog](https://linzhenyuyuchen.github.io/) ...
+- 💬 Ask me about something ...
 
 <!--
 **linzhenyuyuchen/linzhenyuyuchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
