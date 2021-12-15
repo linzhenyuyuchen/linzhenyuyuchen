@@ -1,8 +1,14 @@
-### Hi there 👋
+### Hi there 👋 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=linzhenyuyuchen.visitor-badge)
 ![](./dino.gif)
 
-- 🌱 I’m sharing on [my blog](https://linzhenyuyuchen.github.io/) ...
-- 💬 Ask me about something ...
+
+| ![Zhenyu Lin's Github Stats](https://github-readme-stats.vercel.app/api?username=linzhenyuyuchen&count_private=true&show_icons=true&theme=buefy&hide_border=true) | ![Zhenyu Lin's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=linzhenyuyuchen&layout=compact&theme=buefy&hide_border=true) |
+| ------------- | ------------- |
+
+- 🌱 I’m currently learning at Xiamen University.
+- ⚡ I’m sharing on [my blog](https://linzhenyuyuchen.github.io/).
+- 💬 I’m currently working on Computer Vision, Medical Image Analysis and Visual SLAM.
+- 📫 How to reach me: linzhenyu@stu.xmu.edu.cn
 
 <!--
 **linzhenyuyuchen/linzhenyuyuchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
