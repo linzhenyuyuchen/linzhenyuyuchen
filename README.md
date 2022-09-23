@@ -6,8 +6,8 @@
 | ------------- | ------------- |
 
 - 🌱 I’m currently learning at Xiamen University.
-- ⚡ I’m sharing on [my blog](https://linzhenyuyuchen.github.io/about/).
-- 💬 I’m currently working on Computer Vision, Medical Image Analysis and Visual SLAM.
+<!--- ⚡ I’m sharing on [my blog](https://linzhenyuyuchen.github.io/about/).-->
+- 💬 I’m currently working on Computer Vision, Medical Image Analysis and Neural Reconstruction.
 - 📫 How to reach me: linzhenyu@stu.xmu.edu.cn
 
 <!--
