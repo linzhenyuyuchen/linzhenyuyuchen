@@ -2,8 +2,6 @@
 ![](./dino.gif)
 
 
-| ![Zhenyu Lin's Github Stats](https://github-readme-stats.vercel.app/api?username=linzhenyuyuchen&count_private=true&show_icons=true&theme=buefy&hide_border=true) | ![Zhenyu Lin's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=linzhenyuyuchen&layout=compact&theme=buefy&hide_border=true) |
-| ------------- | ------------- |
 
 - 🌱 I’m currently learning at Xiamen University.
 <!--- ⚡ I’m sharing on [my blog](https://linzhenyuyuchen.github.io/about/).-->
